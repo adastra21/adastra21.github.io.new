@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Abdur Rehman is a Data Scientist with 6+ years of experience in product analytics, business intelligence and machine learning in leading startups in the US and MENA. Most recently, he led the Data Science team at a high-growth quick commerce startup based in MENA. Abdur Rehman is fluent in Python and SQL, enjoys telling data-driven stories using Tableau and Python libraries such as seaborn, and is passionate about A/B testing and experimentation.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+He has a MS in Interdisciplinary Data Science from Duke University, and a BS in Mathematical Economics from Gettysburg College.
